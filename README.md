@@ -36,3 +36,11 @@ To obtain ensemble prediction and weights:
 we_dfm, we_nn, ensemble = ensemble(totpred['LSTM+1'], 
                                    totpred['DFM_GAS'], totpred['GDPR'], 40, lstm.shape[0])
 ```
+
+With the fluctuation test one can check whether there are significant differences between the forecasts over the out-of-sample window:
+```
+m = 6
+q_p = totpred['GDPR'].shape[0]
+F_stat, dL = fluctuation_test(ensemble, totpred['DFM_GAS'], totpred['GDPR'], q_p, m)
+
+```
