@@ -8,4 +8,4 @@ The repository includes the following Python codes and functions:
 * Function for fluctuation test by [Giacomini, Rossi (2010)](https://onlinelibrary.wiley.com/doi/10.1002/jae.1177).
 
 
-If you use the code or mention the work, please [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:EdPFhWv2KosJ:scholar.google.com/&output=citation&scisdr=CgUWYz1QEKTDhy2Ffq8:AAGBfm0AAAAAYdGAZq9Vpe14Co5yJMKDgkAzFW4paXNw&scisig=AAGBfm0AAAAAYdGAZv8pg9qqXjnDGyg_GZ7HWbayYpdb&scisf=4&ct=citation&cd=-1&hl=en) the original published paper
+If you use the code or mention the work, please [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:EdPFhWv2KosJ:scholar.google.com/&output=citation&scisdr=CgUWYz1QEKTDhy2Ffq8:AAGBfm0AAAAAYdGAZq9Vpe14Co5yJMKDgkAzFW4paXNw&scisig=AAGBfm0AAAAAYdGAZv8pg9qqXjnDGyg_GZ7HWbayYpdb&scisf=4&ct=citation&cd=-1&hl=en) the original published paper.
