@@ -1,4 +1,4 @@
-# a_neural_network_ensemble_approach_for_GDP_forecasting
+# A neural network ensemble approach for GDP forecasting
 Replication code for the paper: [A neural network ensemble approach for GDP forecasting](https://www.sciencedirect.com/science/article/abs/pii/S016518892100213X) (L. Longo, M. Riccaboni, A. Rungi), published in the Journal of Economic Dynamics and Control (2022).
 
 The repository includes the following Python codes and functions:
