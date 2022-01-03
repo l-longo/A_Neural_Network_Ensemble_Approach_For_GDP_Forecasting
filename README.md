@@ -29,7 +29,7 @@ lstm_insample.index = var_insample.index
 And then you concatenate:
 ```
 totpred.insert(loc=1,column='LSTM+1',value=pd.concat([lstm_insample,lstm['LSTM+1']])) 
-totpred.insert(loc=2,column='DFM_GAS',value=pd.concat([var_insample,var.pred])) 
+totpred.insert(loc=2,column='DFM_GAS',value=pd.concat([dfm-gas_insample,dfm-gas.pred])) 
 ```
 To obtain ensemble prediction and weights:
 ```
